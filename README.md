@@ -79,9 +79,3 @@ The Power BI dashboard includes:
 - Highlighted areas for business improvement and growth opportunities.
 - Provided data-driven insights for decision-making.
 
----
-
-## ▶️ How to Run This Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Boge-Anil-Kumar-Reddy/customer-trend-analysis-sql-python-powerbi.git
